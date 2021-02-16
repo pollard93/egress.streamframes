@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+
+  egress:
+    image: registry.streamframes.com/egress.streamframes:1.0.0
+    build: .
