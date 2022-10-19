@@ -5,5 +5,5 @@
 ## Push to docker
 
 ```
-docker push registry.streamframes.com/egress.streamframes:1.0.0
+docker push streamframesegress/egress.streamframes:1.0.0
 ```
